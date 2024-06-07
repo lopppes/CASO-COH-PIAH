@@ -11,7 +11,7 @@ Para executar este código, siga estas etapas simples:
 2. Clone este repositório para o seu computador usando o seguinte comando Git:
 
     ```
-    git clone https://github.com/seu_usuario/nome_do_repositorio.git
+    git clone https://github.com/lopppes/CASO-COH-PIAH
     ```
 
 3. Navegue até o diretório onde você clonou o repositório:
