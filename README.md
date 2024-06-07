@@ -1,10 +1,6 @@
 # Similaridades entre textos - Caso COH-PIAH 📄
 
-Este repositório contém um código simples em Python para demonstrar conceitos básicos de listas e referências em Python. O código consiste em uma série de linhas de comando que inicializam listas e fazem algumas operações básicas nelas.
-
-## Objetivo
-
-O objetivo deste código é fornecer exemplos simples de como as listas funcionam em Python, incluindo conceitos como referências, cópias e modificação de elementos.
+Este repositório contém um projeto final realizado como parte do curso Introdução à Ciência da Computação com Python. O objetivo deste projeto foi aplicar os conceitos aprendidos sobre listas e referências em Python. O projeto inclui criação de listas, cópias e modificação de elementos.
 
 ## Como rodar o código
 
